@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:swift-on-server-01}",
+            "name": "Debug SwiftServerVapor",
+            "target": "SwiftServerVapor",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug SwiftServerVapor"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:swift-on-server-01}",
+            "name": "Release SwiftServerVapor",
+            "target": "SwiftServerVapor",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release SwiftServerVapor"
+        }
+    ]
+}
