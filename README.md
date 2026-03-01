@@ -27,3 +27,4 @@ swift test
 - [Vapor Documentation](https://docs.vapor.codes)
 - [Vapor GitHub](https://github.com/vapor)
 - [Vapor Community](https://github.com/vapor-community)
+- [Swift Getting Started Web Server using Vapor](https://github.com/vapor/swift-getting-started-web-server)
